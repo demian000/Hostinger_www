@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/ValDam%20Proxy-v0.1.2-8B5CF6?style=for-the-badge&logo=rust" alt="ValDam Proxy v0.1.2" />
+  <img src="https://img.shields.io/badge/ValDam%20Proxy-v0.1.3-8B5CF6?style=for-the-badge&logo=rust" alt="ValDam Proxy v0.1.2" />
 </p>
 
 <h1 align="center">ValDam Proxy</h1>
